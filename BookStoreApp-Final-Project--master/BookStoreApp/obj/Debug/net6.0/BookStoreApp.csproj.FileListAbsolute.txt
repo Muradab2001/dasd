@@ -1,0 +1,15 @@
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\bin\Debug\net6.0\BookStoreApp.exe
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\bin\Debug\net6.0\BookStoreApp.deps.json
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\bin\Debug\net6.0\BookStoreApp.runtimeconfig.json
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\bin\Debug\net6.0\BookStoreApp.dll
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\bin\Debug\net6.0\BookStoreApp.pdb
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.AssemblyInfo.cs
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.dll
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\refint\BookStoreApp.dll
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.pdb
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\BookStoreApp.genruntimeconfig.cache
+C:\Users\Murad\Desktop\BookStoreApp-Final-Project--master\BookStoreApp\obj\Debug\net6.0\ref\BookStoreApp.dll
